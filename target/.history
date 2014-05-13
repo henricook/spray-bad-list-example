@@ -1,0 +1,10 @@
+run
+project com.henri
+project com
+project com.henri
+project spray-bad-list-example
+run
+exit
+run
+exit
+run
